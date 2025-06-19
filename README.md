@@ -144,3 +144,5 @@ Password: paco123
 - **Time Complexity**: O(1) table access, O(n) order operations
 - **Space Complexity**: O(m*n) where m = tables, n = average orders per table
 - **Scalability**: Designed for small to medium restaurant operations
+
+*This project showcases advanced C++ programming skills suitable for software engineering roles in systems programming, application development, and backend services.*
