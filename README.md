@@ -1,5 +1,5 @@
 # 🍽️ Restaurant Management System
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-9B59B6?style=for-the-badge&logo=wikipedia&logoColor=white)]([https://deepwiki.com/KIKW12/Seismic-Detection-in-Space](https://deepwiki.com/KIKW12/Restaurant-Managment-System))
+[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-9B59B6?style=for-the-badge&logo=wikipedia&logoColor=white)](https://deepwiki.com/KIKW12/Restaurant-Managment-System)
 
 
 A comprehensive C++ application for managing restaurant operations, featuring role-based access control, order management, and real-time table tracking. This project demonstrates advanced object-oriented programming principles and system design patterns.
